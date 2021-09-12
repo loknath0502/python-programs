@@ -1,0 +1,5 @@
+a=input("Enter a char number:")
+print("the Entered char is:"+a[0])
+print("the Entered char is:"+a[1])
+b=float(a)
+c=int(a)
